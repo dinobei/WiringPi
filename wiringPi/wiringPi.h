@@ -25,6 +25,8 @@
 #define	__WIRING_PI_H__
 
 // Handy defines
+#define GPIOL_BASE                         (0x0)
+#define GPIOL_BASE_MAP                     (0x0)
 
 // Deprecated
 #define	NUM_PINS	17
